@@ -1,0 +1,8 @@
+[package]
+name = "pynize"
+version = "0.1.0"
+authors = ["mariksolo"]
+edition = "2018"
+
+[dependencies]
+clap = "2.26.0"
